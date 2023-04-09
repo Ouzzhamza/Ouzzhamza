@@ -8,4 +8,4 @@
 <a href="https://www.linkedin.com/in/ouazzani-hamza-5bb2a7129/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-![visitors](https://visitor-badge.glitch.me/badge?Ouazzhamza=ouazzanihamza&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?Ouzzhamza=ouazzanihamza&left_color=green&right_color=red)
