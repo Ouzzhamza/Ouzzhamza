@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hamza</h1>
 <h2 align="center">A constantly nose-deep in knowledge 🤓 of Cybersecurity and  back end development from Morocco 🇲🇦</h2>
 
+<div>                                                                                                                         
+  <img align="right" src=https://github-readme-stats.vercel.app/api?username=Ouzzhamza&show_icons=true alt=Ouzzhamza /> </p>
+</div>
+
 <h3 align="left">💫 About Me : </h3>
 
 - 🔭 I'm currently working on 24 projects
@@ -19,12 +23,14 @@
 <p align="left">
   <a href="https://www.w3schools.com/c/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="30" height="30"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3//css3-original.svg" alt="css3" width="30" height="30"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/> </a>
+   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/> </a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a>
+   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a>
+   <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="30" height="30"/> </a>
+   
 </p>
 
-<h3 align="left">📊 GitHub Stats :</h3>
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=Ouzzhamza&show_icons=true alt=Ouzzhamza /> </p>
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Ouzzhamza&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ouzzhamza&theme=dark&hide_border=false)<br/>
