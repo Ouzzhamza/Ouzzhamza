@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamza</h1>
-<h2 align="center">A constantly nose-deep in knowledge 🤓 of Cybersecurity and  back end development from Morocco 🇲🇦</h2>
+<h2 align="center">A person who's constantly nose-deep in general knowledge 🤓, especially Cybersecurity and  back end development</h2>
 
 <div>                                                                                                                         
   <img align="right" src=https://github-readme-stats.vercel.app/api?username=Ouzzhamza&show_icons=true alt=Ouzzhamza /> </p>
