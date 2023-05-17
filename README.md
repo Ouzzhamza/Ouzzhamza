@@ -7,7 +7,7 @@
 
 <h3 align="left">💫 About Me : </h3>
 
-- 🔭 I'm currently working on 24 projects
+- 🔭 I'm currently working on 42 projects
 - 💬 Ask me about **C, C++ and JavaScript**
 - 📫 Reach me at **ouzzhamza@gmail.com**
 - 🌱 I'm currently learning  Python JavaScript and Typescript
